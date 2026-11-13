@@ -3,7 +3,8 @@
 ```
 https://suanma.xcy.maotianchen.com/
 ```
-若GitHub下载过慢/中断，请从cloudflare存储桶下载：
+##若GitHub下载过慢/中断，请从cloudflare存储桶下载：
+
 Android：
 V1.0.0
 ```

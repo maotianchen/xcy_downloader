@@ -3,6 +3,9 @@
 ```
 https://suanma.xcy.maotianchen.com/
 ```
+## 欢迎加入QQ讨论区，直接与开发者当面沟通
+
+<img src="https://img.maotianchen.com/qrcode_1794661783060.jpg" alt="群二维码" width="300" />
 
 ## V2.5.0（桌面端 & 安卓端全面修复升级）
 

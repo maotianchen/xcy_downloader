@@ -29,6 +29,13 @@ https://download.maotianchen.com/_V1.1.0.apk
 
 SHA256:dda2f0e60834acf53ea0721c25aec626cc1c777aa268b2afc340dbcf8dbec7ae
 
+V2.5.0
+```
+https://download.maotianchen.com/V2.5.0.apk
+```
+
+SHA256:f9a59b377920c71c5720a266797e947781b9efcef5a90ada99a9ccf05c635af2
+
 #### Windows：
 
 V1.0.0
@@ -46,4 +53,12 @@ https://download.maotianchen.com/_v2.0.0_beta.exe
 ```
 
 SHA256:4153d24c8cc2f015a54c6e830790b7393b5c60c9f8d1fa016cc5e427199acf59
+
+V2.5.0
+
+```
+https://download.maotianchen.com/V2.5.0.exe
+```
+
+SHA256:f9a59b377920c71c5720a266797e947781b9efcef5a90ada99a9ccf05c635af2
 

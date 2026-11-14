@@ -17,13 +17,8 @@ https://suanma.xcy.maotianchen.com/
   - 重构 M3U8 并发分片与重试引擎，新增纯 Dart MPEG-TS 音频提取（纯音频自动导出真 `.aac`，含视频保留 `.ts`），严格清理失败残片。
   - 改为自适应布局并追踪实际保存路径（修复存储降级目录后的「分享」异常）。
 
-### V2.5.0 产物校验
-- **Windows (`dist/星次元下载器.exe`)**：
-  - SHA256: `f9a59b377920c71c5720a266797e947781b9efcef5a90ada99a9ccf05c635af2`
-- **Android (`2.5.0+2`, `app-release.apk`)**：
-  - SHA256: `2db26d0a8159aa7edba64113d1f8142403c67e686430f35e7c2cf6c22731a666`
 
-### 若GitHub下载过慢/中断，请从cloudflare存储桶下载（历史版本）：
+## 若GitHub下载过慢/中断，请从cloudflare存储桶下载（历史版本）：
 
 #### Android：
 

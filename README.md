@@ -18,7 +18,7 @@ https://suanma.xcy.maotianchen.com/
   - 改为自适应布局并追踪实际保存路径（修复存储降级目录后的「分享」异常）。
 
 
-## 若GitHub下载过慢/中断，请从cloudflare存储桶下载（历史版本）：
+## 若GitHub下载过慢/中断，请从cloudflare存储桶下载：
 
 #### Android：
 
